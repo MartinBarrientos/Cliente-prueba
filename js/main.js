@@ -3,7 +3,7 @@
 import { GastoCombustible } from './class/GastoCombustible.js';
 let tarifasJSON = null;
 let gastosJSON = null;
-let tarifasJSONpath = '.recursos/tarifasCombustible.json';
+let tarifasJSONpath = './recursos/tarifasCombustible.json';
 let gastosJSONpath = './recursos/gastosCombustible.json';
 
 // ------------------------------ 2. CARGA INICIAL DE DATOS (NO TOCAR!) ------------------------------
